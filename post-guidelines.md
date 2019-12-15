@@ -96,3 +96,6 @@ Promotions:
   * Business
   * Sponsor
   * Personal Practice
+* User-created Content
+  * Non-Recurring / One-time promotion mental health content is allowed if it doesn’t violate other rules
+  * Recurring Content (Podcasts, YouTube Series/Channel, Instagram) promotions are not allowed. If they are specifically mental health related & appropriate, they will be added to the resources document on the wiki: https://wiki.samh.link/resources
