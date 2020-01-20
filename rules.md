@@ -45,12 +45,3 @@ Although admins/mods/members will provide advice and resources. **We are not equ
 We are not liable for any articles or information you intake in this group. We will screen and check posts as much as possible. Use common sense.
 
 **We do not endorse or verify content posted by users.** Our content and materials are provided to you “as is,” without any guarantees. You are solely responsible for your own use of the "subtle asian mental health" group. Posts from everyone here should not be treated as a substitute for professional advice for your specific situation. That said, the admin/mod does go through a heavy vetting process for wall posts that do not abide to the group rules and we will try our best to monitor ill-intentional/inappropriate comments in our group.
-
-## Related Documents
-[Trigger/ Content Warnings](/rules/trigger-content-warnings)
-
-[Comment Guidelines](/rules/comment-guidelines)
-
-[Post Guidelines](/rules/post-guidelines)
-
-[Facebook Community Standards](https://www.facebook.com/communitystandards/)
