@@ -11,15 +11,14 @@
 * Avoid making “armchair” diagnoses - while we can speculate, a diagnosis has weight and is something that should be done by someone with the proper training and ability to provide resources
 * If you use personal experiences or experiences of others, please add trigger/content warnings and follow the format.
 
-### EXAMPLE
-TW/CW: Trigger, Trigger, Content Descriptor, Content Descriptor. 
-NEED: Support, Validation, Advice, Tips, Opinions. 
-. 
-. 
-. 
-. 
-.  
-.  
-.  
-*(8-10 periods will usually trigger the “see more” function.  
-Content*
+**EXAMPLE**  
+> *LENGTH*  
+> *Advisory if it is extremely graphic*  
+> TW/CW: Trigger, Trigger, Content Descriptor, Content Descriptor.  
+> NEED: Support, Validation, Advice, Tips, Opinions.  
+> .  
+> .  
+> .  
+> .  
+> .  
+**AT LEAST 10 PERIODS TO TRIGGER “see more” function**
