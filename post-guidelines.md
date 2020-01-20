@@ -8,16 +8,16 @@
 * Posts will be automatically declined if they violate group rules or are irrelevant.
 * Positive posts will not need formatting most of the time. Follow your gut and follow this guideline.
 
-**EXAMPLE**
-*LENGTH*
-*Advisory if it is extremely graphic*
-TW/CW: Trigger, Trigger, Content Descriptor, Content Descriptor.
-NEED: Support, Validation, Advice, Tips, Opinions.
-.
-.
-.
-.
-.
+**EXAMPLE**  
+> *LENGTH*  
+> *Advisory if it is extremely graphic*  
+> TW/CW: Trigger, Trigger, Content Descriptor, Content Descriptor.  
+> NEED: Support, Validation, Advice, Tips, Opinions.  
+> .  
+> .  
+> .  
+> .  
+> .  
 **AT LEAST 10 PERIODS TO TRIGGER “see more” function**
 
 # Posts-Specific Rules
@@ -71,11 +71,6 @@ Memes will be approved if they are:
 Memes will be declined if they are:
 * Graphic
 * NSFW/ NSFL
-
-Memes better suited for [Subtle Depressed People Traits](https://www.facebook.com/groups/subtledepressed/):
-* Depression memes
-* Negative memes
-* Self-depricating memes
 
 ## Promotions/ Spam
 Fundraising/ Donations
